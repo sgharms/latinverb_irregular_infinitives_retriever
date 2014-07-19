@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "latinverb_irregular_infinitives_retriever"
   spec.version       = LatinverbIrregularInfinitivesRetriever::VERSION
   spec.authors       = ["Steven G. Harms"]
-  spec.email         = ["sgharms@stevengharms.com"]
+  spec.email         = ["steven.harms@gmail.com"]
   spec.summary       = %q{A tool to derive infinitives for an irregular Latin verb}
   spec.homepage      = ""
   spec.license       = "MIT"
